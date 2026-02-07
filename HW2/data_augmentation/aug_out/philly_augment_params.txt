@@ -1,0 +1,14 @@
+Augment Parameters
+Original: philly_original.jpg
+ShearX(sx=15.0°)
+ShearY(sy=15.0°)
+TranslateX(tx=170px≈0.10W)
+TranslateY(ty=128px≈0.10H)
+Rotate(angle=30.0°)
+Brightness(factor=1.5)
+Color/Saturation(factor=1.5)
+Contrast(factor=1.5)
+Sharpness(factor=2.0)
+Posterize(bits=4)
+Solarize(threshold=128)
+Equalize()

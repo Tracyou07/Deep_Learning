@@ -1,0 +1,1679 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.11)  18 OCT 2025 08:09
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/Upenn Courses/DL/HW2/hw_template.tex"
+(d:/Upenn Courses/DL/HW2/hw_template.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsart.cls
+Document Class: amsart 2020/05/29 v2.20.6
+\linespacing=\dimen148
+\normalparindent=\dimen149
+\normaltopskip=\skip49
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip50
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen150
+))
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+) (C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.st
+y
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count276
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip17
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks18
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks19
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 397
+.
+ (C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.s
+ty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+\copyins=\insert252
+\abstractbox=\box55
+\listisep=\skip53
+\c@part=\count283
+\c@section=\count284
+\c@subsection=\count285
+\c@subsubsection=\count286
+\c@paragraph=\count287
+\c@subparagraph=\count288
+\c@figure=\count289
+\c@table=\count290
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\captionindent=\dimen159
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip56
+\thm@postskip=\skip57
+\thm@headsep=\skip58
+\dth@everypar=\toks27
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.s
+ty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count291
+\Gm@cntv=\count292
+\c@Gm@tempcnt=\count293
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
+\Gm@dimlist=\toks29
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.c
+fg))
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.st
+y
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+Package: bm 2023/12/19 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools
+.sty
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+ (C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count294
+\calc@Bcount=\count295
+\calc@Adimen=\dimen168
+\calc@Bdimen=\dimen169
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count296
+\calc@Cskip=\skip61
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.s
+ty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count297
+\l_MT_multwidth_dim=\dimen170
+\origjot=\skip62
+\l_MT_shortvdotswithinadjustabove_dim=\dimen171
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen172
+\l_MT_above_intertext_sep=\dimen173
+\l_MT_below_intertext_sep=\dimen174
+\l_MT_above_shortintertext_sep=\dimen175
+\l_MT_below_shortintertext_sep=\dimen176
+\xmathstrut@box=\box56
+\xmathstrut@dim=\dimen177
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
+Package: physics 
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\x
+parse.sty
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-08-13 L3 programming layer (loader) 
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
+-xetex.def
+File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count298
+\g__pdfannot_backend_int=\count299
+\g__pdfannot_backend_link_int=\count300
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+))
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+
+Package xcolor Warning: Package option `usenames' is obsolete and ignored on in
+put line 265.
+
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.
+def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.
+ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.d
+ef
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
+File: svgnam.def 2024/09/29 v3.02 Predefined colors according to SVG 1.1 (UK)
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.s
+ty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+ (C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen178
+\ar@mcellbox=\box57
+\extrarowheight=\dimen179
+\NC@list=\toks30
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box58
+)
+\everycr=\toks31
+\minrowclearance=\skip65
+\rownum=\count301
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.s
+ty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.s
+ty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphi
+cs.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex
+.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen180
+\Gin@req@width=\dimen181
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks32
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.s
+ty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count302
+\float@exts=\toks33
+\float@box=\box59
+\@float@everytoks=\toks34
+\@floatcapt=\box60
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen182
+\TX@old@table=\dimen183
+\TX@old@col=\dimen184
+\TX@target=\dimen185
+\TX@delta=\dimen186
+\TX@cols=\count303
+\TX@ftn=\toks35
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
+\LTleft=\skip66
+\LTright=\skip67
+\LTpre=\skip68
+\LTpost=\skip69
+\LTchunksize=\count304
+\LTcapwidth=\dimen187
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@gbox=\box65
+\LT@cols=\count305
+\LT@rows=\count306
+\c@LT@tables=\count307
+\c@LT@chunks=\count308
+\LT@p@ftn=\toks36
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.s
+ty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip70
+\multirow@cntb=\count309
+\multirow@dima=\skip71
+\bigstrutjot=\dimen188
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.
+sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.st
+y
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen189
+\captionmargin=\dimen190
+\caption@leftmargin=\dimen191
+\caption@rightmargin=\dimen192
+\caption@width=\dimen193
+\caption@indent=\dimen194
+\caption@parindent=\dimen195
+\caption@hangindent=\dimen196
+Package caption Info: AMS or SMF document class detected.
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-ams
+-smf.sto
+File: caption-ams-smf.sto 2020/08/22 v2.0 Adaption of the caption package to th
+e AMS and SMF document classes (AR)
+))
+\c@caption@flags=\count310
+\c@continuedfloat=\count311
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.s
+ty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count312
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count313
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspac
+es.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen197
+\WF@size=\dimen198
+\c@WF@wrappedlines=\count314
+\WF@box=\box66
+\WF@everypar=\toks37
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.s
+ty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen199
+\lightrulewidth=\dimen256
+\cmidrulewidth=\dimen257
+\belowrulesep=\dimen258
+\belowbottomsep=\dimen259
+\aboverulesep=\dimen260
+\abovetopsep=\dimen261
+\cmidrulesep=\dimen262
+\cmidrulekern=\dimen263
+\defaultaddspace=\dimen264
+\@cmidla=\count315
+\@cmidlb=\count316
+\@aboverulesep=\dimen265
+\@belowrulesep=\dimen266
+\@thisruleclass=\count317
+\@lastruleclass=\count318
+\@thisrulewidth=\dimen267
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.
+sty
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrc
+s.sty
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+util-common.tex
+\pgfutil@everybye=\toks38
+\pgfutil@tempdima=\dimen268
+\pgfutil@tempdimb=\dimen269
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+util-latex.def
+\pgfutil@abb=\box67
+)
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+rcs.code.tex
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.
+tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfc
+ore.sty
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgf
+sys.sty
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
+gfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+keys.code.tex
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+keyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks41
+))
+\pgf@x=\dimen270
+\pgf@y=\dimen271
+\pgf@xa=\dimen272
+\pgf@ya=\dimen273
+\pgf@xb=\dimen274
+\pgf@yb=\dimen275
+\pgf@xc=\dimen276
+\pgf@yc=\dimen277
+\pgf@xd=\dimen278
+\pgf@yd=\dimen279
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count319
+\c@pgf@countb=\count320
+\c@pgf@countc=\count321
+\c@pgf@countd=\count322
+\t@pgf@toka=\toks42
+\t@pgf@tokb=\toks43
+\t@pgf@tokc=\toks44
+\pgf@sys@id@count=\count323
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
+gf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
+gfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
+gfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ->\pdfobj 
+                                           reserveobjnum \edef \pgf@sys@pdf@...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...e \pdflastobj 
+                                                  } \pdfobj reserveobjnum \e...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: You can't use `end-group character }' after \the.
+\pgf@sys@setuppdfresources@plain ... \pdflastobj }
+                                                   \pdfobj reserveobjnum \ed...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+I'm forgetting what you said and using zero instead.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...obj } \pdfobj 
+                                                  reserveobjnum \edef \pgf@s...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...attern@objnum 
+                                                  {\the \pdflastobj } \pdfob...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...e \pdflastobj 
+                                                  } \pdfobj reserveobjnum \e...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: You can't use `end-group character }' after \the.
+\pgf@sys@setuppdfresources@plain ... \pdflastobj }
+                                                   \pdfobj reserveobjnum \ed...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+I'm forgetting what you said and using zero instead.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...obj } \pdfobj 
+                                                  reserveobjnum \edef \pgf@s...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...spaces@objnum 
+                                                  {\the \pdflastobj } \def \...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...e \pdflastobj 
+                                                  } \def \pgf@sys@pdf@possib...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: You can't use `end-group character }' after \the.
+\pgf@sys@setuppdfresources@plain ... \pdflastobj }
+                                                   \def \pgf@sys@pdf@possibl...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+I'm forgetting what you said and using zero instead.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...ble@resources 
+                                                  {/ColorSpace \pgf@sys@pdf@...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...spaces@objnum 
+                                                  \space 0 R /Pattern \pgf@s...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...attern@objnum 
+                                                  \space 0 R /ExtGState \pgf...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...@extgs@objnum 
+                                                  \space 0 R } \let \pgf@sys...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...eck@resources 
+                                                  =\relax \def \pgf@sys@pdf@...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...pageresources 
+                                                  { { \edef \temp { \pgf@sys...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...{ \edef \temp 
+                                                  { \pgf@sys@pdf@possible@re...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...ble@resources 
+                                                  } \expandafter \global \ex...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...dafter {\temp 
+                                                  } } } \pgf@sys@pdf@install...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+<recently read> \pdfpageresources 
+                                  
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...pageresources 
+                                                  \expandafter \pgfutil@ever...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...diate \pdfobj 
+                                                  useobjnum \pgf@sys@pdf@ext...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...@extgs@objnum 
+                                                  {<<\pgf@sys@pgf@resource@l...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...ce@list@extgs 
+                                                  >>}\immediate \pdfobj useo...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...diate \pdfobj 
+                                                  useobjnum \pgf@sys@pdf@pat...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...attern@objnum 
+                                                  {<<\pgf@sys@pgf@resource@l...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...list@patterns 
+                                                  >>}\immediate \pdfobj useo...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...diate \pdfobj 
+                                                  useobjnum \pgf@sys@pdf@col...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...spaces@objnum 
+                                                  {<<\pgf@sys@pgf@resource@l...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...t@colorspaces 
+                                                  >>}} \let \pgf@sys@pgf@res...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...ce@list@extgs 
+                                                  =\pgfutil@empty \let \pgf@...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...list@patterns 
+                                                  =\pgfutil@empty \let \pgf@...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...t@colorspaces 
+                                                  =\pgfutil@empty \def \pgf@...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...e@extgs@plain 
+                                                  ##1{\xdef \pgf@sys@pgf@res...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Illegal parameter number in definition of \pgf@sys@pdf@ext
+gs@objnum.
+<to be read again> 
+                   1
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...ce@list@extgs 
+                                                  {\pgf@sys@pgf@resource@lis...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...ce@list@extgs 
+                                                  \space ##1}} \def \pgf@sys...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Illegal parameter number in definition of \pgf@sys@pdf@ext
+gs@objnum.
+<to be read again> 
+                   1
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...atterns@plain 
+                                                  ##1{\xdef \pgf@sys@pgf@res...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Illegal parameter number in definition of \pgf@sys@pdf@ext
+gs@objnum.
+<to be read again> 
+                   1
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...list@patterns 
+                                                  {\pgf@sys@pgf@resource@lis...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...list@patterns 
+                                                  \space ##1}} \def \pgf@sys...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Illegal parameter number in definition of \pgf@sys@pdf@ext
+gs@objnum.
+<to be read again> 
+                   1
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...rspaces@plain 
+                                                  ##1{\xdef \pgf@sys@pgf@res...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Illegal parameter number in definition of \pgf@sys@pdf@ext
+gs@objnum.
+<to be read again> 
+                   1
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...t@colorspaces 
+                                                  {\pgf@sys@pgf@resource@lis...
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Undefined control sequence.
+\pgf@sys@setuppdfresources@plain ...t@colorspaces 
+                                                  \space ##1}} 
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:385: Illegal parameter number in definition of \pgf@sys@pdf@ext
+gs@objnum.
+<to be read again> 
+                   1
+l.385 \pgfutil@setuppdfresources
+                                 % possibly call the above
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:387: Undefined control sequence.
+\pgfutil@addpdfresource@colorspaces ...aces@plain 
+                                                  {#1}
+l.387 ...rspaces{ /pgfprgb [/Pattern /DeviceRGB] }
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def:390: Undefined control sequence.
+l.390     \pdfliteral
+                     {\csname\string\color@#1\endcsname}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+Runaway definition?
+->0 reserveobjnum \edef {0 reserveobjnum \edef {0 \def {/ColorSpace  \ETC.
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys.code.tex:1757: File ended while scanning definition of \pgf@sys@pdf@extgs@
+objnum.
+<inserted text> 
+                }
+l.1757 ...iver file ``\pgfsysdriver'' not found.}}
+                                                  
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+)
+Runaway definition?
+->0 reserveobjnum \edef {0 reserveobjnum \edef {0 \def {/ColorSpace  \ETC.
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfs
+ys.sty:16: File ended while scanning definition of \pgf@sys@pdf@extgs@objnum.
+<inserted text> 
+                }
+l.16 \input{pgfsys.code.tex}
+                            
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfs
+ys.sty:17: Missing \endcsname inserted.
+<to be read again> 
+                   \protect 
+l.17 \input
+           {pgfsyssoftpath.code.tex}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfs
+ys.sty:17: Use of \??? doesn't match its definition.
+<argument> \???  
+                 ! LaTeX Error: \protect invalid in file name. Lost: \InputI...
+l.17 \input
+           {pgfsyssoftpath.code.tex}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+)
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Incomplete \iffalse; all text was ignored after line 17.
+<inserted text> 
+                \fi 
+l.12 \RequirePackage
+                    {keyval}
+The file ended while I was skipping conditional text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.12 \RequirePackage
+                    {keyval}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.12 \RequirePackage
+                    {keyval}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.12 \RequirePackage
+                    {keyval}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.12 \RequirePackage
+                    {keyval}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.12 \RequirePackage
+                    {keyval}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.12 \RequirePackage
+                    {keyval}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.12 \RequirePackage
+                    {keyval}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.12 \RequirePackage
+                    {keyval}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Argument of \@fileswith@ptions has an extra }.
+<inserted text> 
+                \par 
+l.12 \RequirePackage
+                    {keyval}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@pkgextension \cs_end: \__file_name_expand_end: 
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Paragraph ended before \@fileswith@ptions was complete.
+<to be read again> 
+                   \par 
+l.12 \RequirePackage
+                    {keyval}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Missing \endcsname inserted.
+<to be read again> 
+                   \scan_stop: 
+l.12 \RequirePackage
+                    {keyval}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Argument of \__file_name_expand_cleanup:Nw has an extra }.
+<inserted text> 
+                \par 
+l.12 \RequirePackage
+                    {keyval}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\scan_stop: \mode_if_horizontal:TF {\mode_if_inner:F {\tex_unskip:D \hook_use:n
+ \ETC.
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty:12: Paragraph ended before \__file_name_expand_cleanup:Nw was complete.
+<to be read again> 
+                   \par 
+l.12 \RequirePackage
+                    {keyval}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+)
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:29: Incomplete \iffalse; all text was ignored after line 12.
+<inserted text> 
+                \fi 
+l.29 
+     
+The file ended while I was skipping conditional text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:29: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.29 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:29: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.29 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:29: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.29 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:29: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.29 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:29: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.29 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:29: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.29 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:29: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.29 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:29: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.29 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:30: Undefined control sequence.
+\pgfutil@ifnextchar ...->\let \pgfutil@reserved@d 
+                                                  =#1\def \pgfutil@reserved@...
+l.30 \usepgfmodule
+                  {shapes,plot}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:30: Undefined control sequence.
+\pgfutil@ifnextchar ...#1\def \pgfutil@reserved@a 
+                                                  {#2}\def \pgfutil@reserved...
+l.30 \usepgfmodule
+                  {shapes,plot}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:30: Use of \use@pgfmodule doesn't match its definition.
+\pgfutil@ifnextchar ...ef \pgfutil@reserved@a {#2}
+                                                  \def \pgfutil@reserved@b {...
+l.30 \usepgfmodule
+                  {shapes,plot}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:30: Undefined control sequence.
+\pgfutil@ifnextchar ...2}\def \pgfutil@reserved@b 
+                                                  {#3}\futurelet \pgfutil@le...
+l.30 \usepgfmodule
+                  {shapes,plot}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:30: Argument of \use@@pgfmodule has an extra }.
+<inserted text> 
+                \par 
+l.30 \usepgfmodule
+                  {shapes,plot}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:30: Paragraph ended before \use@@pgfmodule was complete.
+<to be read again> 
+                   \par 
+l.30 \usepgfmodule
+                  {shapes,plot}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:30: Undefined control sequence.
+\pgfutil@ifnextchar ...turelet \pgfutil@let@token 
+                                                  \pgfutil@ifnch 
+l.30 \usepgfmodule
+                  {shapes,plot}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:30: Undefined control sequence.
+\pgfutil@ifnch ...rved@d \let \pgfutil@reserved@c 
+                                                  \pgfutil@reserved@a \else ...
+l.30 \usepgfmodule
+                  {shapes,plot}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:30: Undefined control sequence.
+\pgfutil@ifnch ...@reserved@c \pgfutil@reserved@a 
+                                                  \else \let \pgfutil@reserv...
+l.30 \usepgfmodule
+                  {shapes,plot}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:30: Undefined control sequence.
+\pgfutil@ifnch ...d@b \fi \fi \pgfutil@reserved@c 
+                                                  
+l.30 \usepgfmodule
+                  {shapes,plot}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:36: Argument of \@fileswith@ptions has an extra }.
+<inserted text> 
+                \par 
+l.36 \pgf@obsolete
+                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@pkgextension \cs_end: \__file_name_expand_end: 
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:36: Paragraph ended before \@fileswith@ptions was complete.
+<to be read again> 
+                   \par 
+l.36 \pgf@obsolete
+                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:36: Missing \endcsname inserted.
+<to be read again> 
+                   \scan_stop: 
+l.36 \pgf@obsolete
+                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:36: Argument of \__file_name_expand_cleanup:Nw has an extra }.
+<inserted text> 
+                \par 
+l.36 \pgf@obsolete
+                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\scan_stop: \mode_if_horizontal:TF {\mode_if_inner:F {\tex_unskip:D \hook_use:n
+ \ETC.
+C:\Users\X1 Carbon\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty:36: Paragraph ended before \__file_name_expand_cleanup:Nw was complete.
+<to be read again> 
+                   \par 
+l.36 \pgf@obsolete
+                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+)
+d:/Upenn Courses/DL/HW2/hw_template.tex:11: Incomplete \iffalse; all text was i
+gnored after line 36.
+<inserted text> 
+                \fi 
+l.11 \usepackage
+                [normalem]{ulem}
+The file ended while I was skipping conditional text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+d:/Upenn Courses/DL/HW2/hw_template.tex:11: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.11 \usepackage
+                [normalem]{ulem}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Upenn Courses/DL/HW2/hw_template.tex:11: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.11 \usepackage
+                [normalem]{ulem}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Upenn Courses/DL/HW2/hw_template.tex:11: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.11 \usepackage
+                [normalem]{ulem}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Upenn Courses/DL/HW2/hw_template.tex:11: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.11 \usepackage
+                [normalem]{ulem}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Upenn Courses/DL/HW2/hw_template.tex:11: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.11 \usepackage
+                [normalem]{ulem}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Upenn Courses/DL/HW2/hw_template.tex:11: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.11 \usepackage
+                [normalem]{ulem}
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 8461 strings out of 403249
+ 137708 string characters out of 5460032
+ 549298 words of memory out of 5000000
+ 36637 multiletter control sequences out of 15000+600000
+ 626841 words of font info for 42 fonts, out of 8000000 for 9000
+ 1509 hyphenation exceptions out of 8191
+ 73i,0n,90p,398b,76s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.

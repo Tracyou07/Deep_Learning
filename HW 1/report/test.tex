@@ -1,0 +1,15 @@
+\documentclass{amsart}
+
+\usepackage{iftex}
+\ifXeTeX
+  \usepackage{fontspec}
+\fi
+
+\usepackage{graphicx}   % 不加 [pdftex]
+\usepackage{xcolor}
+\usepackage{tikz}
+
+\begin{document}
+Hello, XeLaTeX! \tikz \draw (0,0) -- (1,0);
+\end{document}
+
